@@ -24,4 +24,4 @@ end
 
 
 response = get_request(site) #Get request to call the page
-out_file(response, "/Users/ismeet/code/rails/google") #Write out to google file
+out_file(response, "./google") #Write out to google file
